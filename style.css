@@ -13,12 +13,13 @@ nav{
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding: 10px;
+    padding-top: 10px;
+    
 }
 
 .divBTN{
     justify-content: flex-start;
-    margin-left: 10px;
+    margin-left: 20px;
     
 }
 .btn-menu{
@@ -36,7 +37,7 @@ nav{
 
 .bgPurple{
     background-color:#545588;
-    height: 520px;
+    height: 650px;
     width: 310px;
     padding-top: 10px;
     
@@ -46,7 +47,7 @@ nav{
     display: flex;
     flex-direction: column;
     background-color: rgb(255, 255, 255);
-    height: 500px;
+    height: 600px;
     width: 300px;
     border-radius: 20px;
     overflow: hidden;
@@ -57,11 +58,11 @@ nav{
 }
 
 .textInicial {
-    padding: 20px;
+    padding: 40px 20px 60px 20px;
 }
 h1 {
-    font-size: 16px;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: 800;
 
 }
 
@@ -93,18 +94,18 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 50px;
+    padding-top: 60px;
     padding-bottom: 30px;
     
     
 }
 .btnLogin{
-    width: 140px;
-    height: 32px;
-    background-color: rgb(6, 6, 53);
+    width: 150px;
+    height: 36px;
+    background-color: rgb(4, 4, 24);
     color: white;
     border-radius: 24px;
-    font-size: 18px;
+    font-size: 20px;
     font-family:'Montserrat';
     cursor: pointer;
     
